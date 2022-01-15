@@ -85,6 +85,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="icons\purplegrape.ico" />
+    <Content Include="icons\purplegrape.png" />
     <Content Include="purplegrape.ico" />
     <Content Include="watermelon.ico" />
   </ItemGroup>
